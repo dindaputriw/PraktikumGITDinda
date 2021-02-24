@@ -5,4 +5,5 @@ Requirment System :
 - MySQL versi....
 - HTP server (apache, nginx,dll)
 - Regis
+- Phyton
 
